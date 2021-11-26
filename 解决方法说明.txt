@@ -1,0 +1,3 @@
+在磁盘管理器中把U盘盘符删掉重新建了盘符，之后在“MPALL_F1_7F00_DL20_v503_0C_beta”中成功读到盘
+
+https://post.smzdm.com/p/akm72rwr/
