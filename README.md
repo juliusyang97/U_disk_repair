@@ -1,1 +1,3 @@
 # U_disk_repair
+
+使用MPALL_F1_7F00_DL20_v503_0C_beta.zip，按照教程可以完成金士顿的量产
